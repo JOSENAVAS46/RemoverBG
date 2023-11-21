@@ -42,4 +42,8 @@ Asegúrate de tener Python y pip instalados en tu computadora.
 
 Esta aplicación funciona con la API de Remove.bg. Asegúrate de obtener tu propia API Key siguiendo las instrucciones mencionadas anteriormente.
 
+## Cómo descargar el proyecto
+
+Puedes descargar este proyecto directamente desde GitHub. Haz clic en el botón "Code" en la parte superior de la página y selecciona "Download ZIP". Descomprime el archivo ZIP en tu computadora y sigue las instrucciones anteriores para ejecutar la aplicación.
+
 ---
