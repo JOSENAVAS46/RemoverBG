@@ -108,11 +108,11 @@ Asegúrate de tener Python y pip instalados en tu computadora.
 
 ### Obtén una API Key de Remove.bg
 
-4. **Registro en Remove.bg:**
+1. **Registro en Remove.bg:**
    - Ingresa a [Remove.bg](https://www.remove.bg/)
    - Crea una cuenta
 
-5. **Obtén una API Key:**
+2. **Obtén una API Key:**
    - Visita [Remove.bg API](https://www.remove.bg/api)
    - Haz clic en "Get API Key"
    - Haz clic en "New API Key"
@@ -121,13 +121,13 @@ Asegúrate de tener Python y pip instalados en tu computadora.
 
 ### Instalación de dependencias
 
-6. **Ejecuta el siguiente comando para instalar las dependencias desde el archivo `requirements.txt`:**
+1. **Ejecuta el siguiente comando para instalar las dependencias desde el archivo `requirements.txt`:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-7. **Ejecutar la aplicación:**
+2. **Ejecutar la aplicación:**
    - Ejecuta la aplicación directamente usando Python:
 
      ```bash
